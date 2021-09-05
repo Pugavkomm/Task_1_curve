@@ -30,13 +30,10 @@ const double PI_2 = 2 * M_PI;
 double generate_random_value(double start = -10, double stop = 10){
 	return start + (stop - start) * static_cast<double>(rand()) / RAND_MAX;
 } 
-int main(int argc, char *argv[])
+int main()
 {
 	srand(time(0));
-	std::vector<std::unique_ptr<shape>> curves_vector;
-	std::array<double, DIM> origin_array;
-	std::array<double, DIM> curve_parameter_array;
-	
+	std::vector<std::unique_ptr<shape>> curves_vector;	
 	point origin;
 	point curve_parameter;
 	for (int i = 0; i < number_of_curves; ++i){
