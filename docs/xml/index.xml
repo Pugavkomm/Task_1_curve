@@ -31,6 +31,7 @@
     <member refid="group___curves_1ga0d328299f7841d809eede3c7deb6fc07" kind="variable"><name>point</name></member>
     <member refid="group___curves_1ga48f5ad3fb47ee313d4e98e442690af39" kind="function"><name>Point</name></member>
     <member refid="group___curves_1ga9b7a427b639dcd43e55ec8c0c719d781" kind="function"><name>Point</name></member>
+    <member refid="group___curves_1ga94535ec7d38a7c08893ddf41d8ae447e" kind="function"><name>Point</name></member>
     <member refid="group___curves_1ga7f6f8f05a8ec4ad0700541eb462f22f4" kind="function"><name>setPoint</name></member>
     <member refid="group___curves_1ga62a20a6cd6bd25086d2290dadc453061" kind="function"><name>operator+</name></member>
     <member refid="group___curves_1ga4a05b56e6c7f2e0755b6ed1978afc79e" kind="function"><name>operator*</name></member>
@@ -66,12 +67,13 @@
     <member refid="main_8cpp_1a6b3d5c53978e0462b2a839fb33c8cb98" kind="variable"><name>parameter</name></member>
     <member refid="main_8cpp_1aea0d639eca72b0b16ec6f01c433c258d" kind="variable"><name>PI_2</name></member>
     <member refid="main_8cpp_1a810775b13f398db2f01d82d26c14d556" kind="function"><name>generate_random_value</name></member>
-    <member refid="main_8cpp_1a0ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+    <member refid="main_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
   </compound>
   <compound refid="group___curves" kind="group"><name>Curves</name>
     <member refid="group___curves_1ga0d328299f7841d809eede3c7deb6fc07" kind="variable"><name>point</name></member>
     <member refid="group___curves_1ga48f5ad3fb47ee313d4e98e442690af39" kind="function"><name>Point</name></member>
     <member refid="group___curves_1ga9b7a427b639dcd43e55ec8c0c719d781" kind="function"><name>Point</name></member>
+    <member refid="group___curves_1ga94535ec7d38a7c08893ddf41d8ae447e" kind="function"><name>Point</name></member>
     <member refid="group___curves_1ga7f6f8f05a8ec4ad0700541eb462f22f4" kind="function"><name>setPoint</name></member>
     <member refid="group___curves_1ga62a20a6cd6bd25086d2290dadc453061" kind="function"><name>operator+</name></member>
     <member refid="group___curves_1ga4a05b56e6c7f2e0755b6ed1978afc79e" kind="function"><name>operator*</name></member>

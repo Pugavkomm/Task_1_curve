@@ -197,7 +197,7 @@
           <declname>parameter</declname>
         </param>
         <briefdescription>
-<para>Placeholder and Coincides with <ref refid="class_curves_1_1_curve_1adff2c86e495240176d8000a039881732" kindref="member">get_curve_parameter()</ref> </para>
+<para>Placeholder. </para>
         </briefdescription>
         <detaileddescription>
 <para><parameterlist kind="param"><parameteritem>
@@ -229,7 +229,7 @@
           <declname>parameter</declname>
         </param>
         <briefdescription>
-<para>Placeholder and Coincides with <ref refid="class_curves_1_1_curve_1ab4a377ce4d09b127250412f3949dfc31" kindref="member">get_origin()</ref> </para>
+<para>Placeholder. </para>
         </briefdescription>
         <detaileddescription>
 <para><parameterlist kind="param"><parameteritem>

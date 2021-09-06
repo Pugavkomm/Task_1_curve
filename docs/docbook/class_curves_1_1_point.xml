@@ -21,6 +21,10 @@
 
 <para>The constructor defines point. </para>
 </listitem>
+            <listitem><para><link linkend="_group___curves_1ga94535ec7d38a7c08893ddf41d8ae447e">Point</link> (const <link linkend="_class_curves_1_1_point">Point</link>&lt; T &gt; &amp;other)</para>
+
+<para>Construct a new <link linkend="_class_curves_1_1_point">Point</link> object (Copy constructor) </para>
+</listitem>
             <listitem><para>void <link linkend="_group___curves_1ga7f6f8f05a8ec4ad0700541eb462f22f4">setPoint</link> (const std::array&lt; T, DIM &gt; &amp;<link linkend="_class_curves_1_1_point">point</link>)</para>
 
 <para>The method sets the coordinates of the point. </para>

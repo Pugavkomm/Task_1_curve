@@ -40,7 +40,7 @@
         <itemizedlist>
             <listitem><para><anchor xml:id="_main_8cpp_1a810775b13f398db2f01d82d26c14d556"/>double <emphasis role="strong">generate_random_value</emphasis> (double start=-10, double stop=10)</para>
 </listitem>
-            <listitem><para><anchor xml:id="_main_8cpp_1a0ddf1224851353fc92bfbff6f499fa97"/>int <emphasis role="strong">main</emphasis> (int argc, char *argv[])</para>
+            <listitem><para><anchor xml:id="_main_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4"/>int <emphasis role="strong">main</emphasis> ()</para>
 </listitem>
         </itemizedlist>
 </simplesect>
